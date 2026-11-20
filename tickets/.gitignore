@@ -1,0 +1,10 @@
+.aws/
+.env*
+!.env.example
+.dev-deps/
+.local/
+.deploy/
+__pycache__/
+*.pyc
+node_modules/
+
