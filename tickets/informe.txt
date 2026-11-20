@@ -1,0 +1,5 @@
+- Utilicé Codex para realizar la totalidad de la app.
+- Para esta tarea hice un solo prompt con el modelo Astra para ahorrarme tiempo, pero perdí varios tokens. Este no suele ser mi workflow. Usualmente planeo con un buen modelo y luego ejecuto con uno de menor nivel.
+- Tokens gastados: no dispongo de un conteo verificable del consumo de esta tarea.
+- No verifiqué el código; verifiqué las funcionalidades, que es donde está el cuello de botella en la actualidad.
+- Como mencioné antes, debí planear (con el modo /goal) con el modelo con el que ejecuté. Usualmente ejecutar es lo que quema tokens. Ahora, por el lado de un mejor producto, para uno real haría un mockup del diseño del frontend para decidir cómo quiero que quede, en vez de dejarle a la IA que haga el diseño, ya que siempre suele hacer el mismo diseño de frontend que ya todos reconocemos a simple vista cuando algo está hecho con IA.
